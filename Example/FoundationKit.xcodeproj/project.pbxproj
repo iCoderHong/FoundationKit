@@ -67,7 +67,7 @@
 		923DEB97F36C52C512DCCC88 /* Pods_FoundationKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FoundationKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2B6F90C421D5F6351EE211A /* Pods-FoundationKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoundationKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-FoundationKit_Tests/Pods-FoundationKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DFDD07792640D79A45BC559A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		FFE5F1402624296E00516ACF /* FoundationKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FoundationKit.podspec; path = ../FoundationKit.podspec; sourceTree = "<group>"; };
+		FFE5F1402624296E00516ACF /* FoundationKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FoundationKit.podspec; path = ../FoundationKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
