@@ -1,0 +1,16 @@
+PODS:
+  - FoundationKit (0.1.0)
+
+DEPENDENCIES:
+  - FoundationKit (from `../`)
+
+EXTERNAL SOURCES:
+  FoundationKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FoundationKit: f2800f80b16e0329e347bae288ec396955c05197
+
+PODFILE CHECKSUM: 9c983fb698a4b43f59c4f19aeb32273cd1eeb905
+
+COCOAPODS: 1.10.1
