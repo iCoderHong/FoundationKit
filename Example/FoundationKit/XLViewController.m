@@ -8,6 +8,7 @@
 
 #import "XLViewController.h"
 #import <FoundationKit/XLNetwork.h>
+#import <FoundationKit/XLMath.h>
 
 @interface XLViewController ()
 
@@ -20,6 +21,8 @@
     [super viewDidLoad];
     
     [XLNetwork GET:@""];
+    
+    [XLMath sum:10 num2:20];
 	
 }
 
