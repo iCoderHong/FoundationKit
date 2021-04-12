@@ -5,7 +5,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'FoundationKit_Example' do
-  pod 'XXXXXFoundationKit', :path => '../'
+  pod 'FoundationKit', :path => '../'
 
   target 'FoundationKit_Tests' do
     inherit! :search_paths

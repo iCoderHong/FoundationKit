@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XXXXXFoundationKit'
+  s.name             = 'FoundationKit'
   s.version          = '0.1.0'
   s.summary          = 'this is inner FoundationKit.'
 
