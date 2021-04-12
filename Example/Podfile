@@ -1,9 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 platform :ios, '9.0'
 
 target 'FoundationKit_Example' do
-  pod 'FoundationKit', :path => '../'
+  pod 'XXXXXFoundationKit', :path => '../'
 
   target 'FoundationKit_Tests' do
     inherit! :search_paths

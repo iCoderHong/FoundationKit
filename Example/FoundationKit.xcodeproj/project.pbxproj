@@ -24,6 +24,7 @@
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		F91F57D61C0D93B4017F6B7C /* Pods_FoundationKit_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52F99F7716308B409C0C9225 /* Pods_FoundationKit_Tests.framework */; };
+		FFE5F1412624296E00516ACF /* XXXXXFoundationKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = FFE5F1402624296E00516ACF /* XXXXXFoundationKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +38,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		19EF1DB7DCBD15C3368AEC5B /* FoundationKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FoundationKit.podspec; path = ../FoundationKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		446D638D0DE6CEE324756F5C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		50A40B99F860CAE929064529 /* Pods-FoundationKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoundationKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-FoundationKit_Example/Pods-FoundationKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		52F99F7716308B409C0C9225 /* Pods_FoundationKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FoundationKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +67,7 @@
 		923DEB97F36C52C512DCCC88 /* Pods_FoundationKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FoundationKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2B6F90C421D5F6351EE211A /* Pods-FoundationKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoundationKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-FoundationKit_Tests/Pods-FoundationKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DFDD07792640D79A45BC559A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FFE5F1402624296E00516ACF /* XXXXXFoundationKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = XXXXXFoundationKit.podspec; path = ../XXXXXFoundationKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,7 +190,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				19EF1DB7DCBD15C3368AEC5B /* FoundationKit.podspec */,
+				FFE5F1402624296E00516ACF /* XXXXXFoundationKit.podspec */,
 				DFDD07792640D79A45BC559A /* README.md */,
 				446D638D0DE6CEE324756F5C /* LICENSE */,
 			);
@@ -277,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFE5F1412624296E00516ACF /* XXXXXFoundationKit.podspec in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
@@ -346,11 +348,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FoundationKit_Example/Pods-FoundationKit_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/FoundationKit/FoundationKit.framework",
+				"${BUILT_PRODUCTS_DIR}/XXXXXFoundationKit/XXXXXFoundationKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FoundationKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XXXXXFoundationKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
